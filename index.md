@@ -1,6 +1,6 @@
 layout: page
 title: "Hello World"
-permalink /about/contact
+permalink: /about/contact
 
 ## Hello World
 
