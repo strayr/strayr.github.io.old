@@ -1,3 +1,7 @@
+layout: page
+title: "Hello World"
+permalink /about/contact
+
 ## Hello World
 
 Yes. You. I'm waving at you.
